@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>359404</id>
+      <name>pose-estimation1</name>
+      <size>25</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2023-11-05 02:39:00.677709+00:00</created>
+      <updated>2023-11-05 11:06:35.894065+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>24</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>391523</id>
+          <start>0</start>
+          <stop>24</stop>
+          <url>https://app.cvat.ai/api/jobs/391178</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>petar7</username>
+        <email>wiriyevich@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>workout</name>
+          <color>#da81ab</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2023-11-05 11:06:42.333477+00:00</dumped>
+  </meta>
+  <image id="1" name="img (10).jpg" width="287" height="176">
+    <box label="workout" source="manual" occluded="0" xtl="30.58" ytl="5.62" xbr="263.49" ybr="173.91" z_order="0">
+    </box>
+    <points label="workout" source="manual" occluded="0" points="96.62,30.12;137.45,50.35;175.08,50.35;78.15,59.94;117.57,64.20;153.07,80.89;136.03,57.46;154.14,65.62;182.89,81.24;77.44,91.54;68.57,135.21;147.03,98.64;149.87,156.87;192.13,95.80;224.79,104.68;217.69,90.12;250.35,105.74" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="img (102).jpg" width="612" height="408">
+    <box label="workout" source="manual" occluded="0" xtl="234.28" ytl="16.26" xbr="437.89" ybr="360.88" z_order="0">
+    </box>
+    <points label="workout" source="manual" occluded="0" points="333.31,195.31;332.52,199.27;332.52,191.35;263.60,226.20;287.36,207.19;281.03,172.33;412.54,225.41;393.52,206.40;395.11,184.22;254.88,330.78;299.25,341.08;415.71,338.70;346.78,341.08;301.62,127.97;312.72,41.61;339.65,287.21;330.94,322.06" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="img (11).jpg" width="612" height="377">
+    <points label="workout" source="manual" occluded="0" points="363.93,88.19;354.09,163.14;369.99,214.63;332.13,111.66;322.29,166.17;326.07,229.01;355.60,105.60;329.86,169.20;347.27,237.34;337.43,176.77;323.05,250.21;355.60,179.80;348.79,256.27;230.68,232.04;241.28,340.31;389.67,337.28;493.40,321.38" z_order="0">
+    </points>
+    <box label="workout" source="manual" occluded="0" xtl="183.66" ytl="11.72" xbr="519.14" ybr="371.35" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="img (124).jpg" width="612" height="408">
+    <box label="workout" source="manual" occluded="0" xtl="109.11" ytl="19.43" xbr="338.86" ybr="380.69" z_order="0">
+    </box>
+    <points label="workout" source="manual" occluded="0" points="244.58,86.77;193.88,143.02;146.35,175.50;212.89,106.58;182.00,151.73;140.01,196.89;277.06,122.42;224.78,160.45;206.56,196.89;260.43,176.29;316.68,130.34;308.75,185.01;326.98,133.51;222.40,231.75;175.66,341.87;265.18,230.16;238.25,321.27" z_order="0">
+    </points>
+  </image>
+
+  <image id="6" name="img (129).jpg" width="408" height="612">
+    <points label="workout" source="manual" occluded="0" points="121.35,464.07;184.33,427.23;227.12,397.52;143.93,471.20;184.33,420.10;240.19,395.15;114.22,448.62;166.51,412.97;206.91,376.13;216.42,475.96;293.66,477.14;179.58,447.44;221.17,443.87;229.49,285.82;229.49,175.30;316.24,346.43;342.38,436.74" z_order="0">
+    </points>
+    <box label="workout" source="manual" occluded="0" xtl="34.60" ytl="112.32" xbr="391.11" ybr="496.16" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="img (130).jpg" width="612" height="408">
+    <box label="workout" source="manual" occluded="0" xtl="191.50" ytl="52.70" xbr="438.68" ybr="369.60" z_order="0">
+    </box>
+    <points label="workout" source="manual" occluded="0" points="345.99,94.69;320.64,146.19;288.95,192.14;313.51,94.69;310.34,151.73;303.21,201.64;370.55,120.04;343.61,155.69;314.30,212.74;263.60,108.16;223.19,136.68;390.35,155.69;422.04,120.04;385.60,206.40;371.34,281.66;277.86,279.28;216.06,322.06" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="img (133).jpg" width="612" height="437">
+    <box label="workout" source="manual" occluded="0" xtl="175.69" ytl="50.11" xbr="491.43" ybr="369.16" z_order="0">
+    </box>
+    <points label="workout" source="manual" occluded="0" points="427.79,353.88;366.70,333.52;330.21,307.22;416.76,340.31;381.97,315.70;320.88,275.82;409.97,350.49;376.03,321.64;321.73,282.61;344.64,338.61;290.33,342.01;355.67,357.28;301.36,359.82;337.85,187.57;348.88,100.17;240.27,224.91;223.29,302.97" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="img (135).jpg" width="612" height="408">
+    <points label="workout" source="manual" occluded="0" points="334.90,198.48;336.48,249.97;358.66,330.78;295.29,210.36;316.68,261.85;319.85,320.48;374.51,208.77;361.83,264.23;367.38,322.86;256.47,272.95;313.51,278.49;391.15,265.82;333.31,276.91;237.45,322.86;324.60,358.51;278.65,264.23;205.76,336.32" z_order="0">
+    </points>
+    <box label="workout" source="manual" occluded="0" xtl="147.93" ytl="107.37" xbr="405.41" ybr="370.39" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="img (137).jpg" width="612" height="408">
+    <box label="workout" source="manual" occluded="0" xtl="238.25" ytl="40.03" xbr="503.64" ybr="384.65" z_order="0">
+    </box>
+    <points label="workout" source="manual" occluded="0" points="402.24,123.21;384.02,196.89;373.72,265.82;352.33,127.17;357.08,203.23;336.48,261.06;454.52,154.11;420.46,219.07;415.71,279.28;311.13,173.92;342.82,96.28;441.85,235.71;456.90,304.63;304.79,213.53;281.82,329.19;447.39,297.50;323.01,325.23" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="img (21).jpg" width="612" height="408">
+    <points label="workout" source="manual" occluded="0" points="244.58,97.86;212.89,152.53;184.37,183.42;170.91,111.33;170.91,169.16;136.05,204.81;311.13,123.21;259.64,186.59;250.92,230.96;174.87,228.58;155.85,336.32;314.30,234.92;329.35,333.95;144.76,254.72;140.01,287.21;203.39,269.78;185.17,292.75" z_order="0">
+    </points>
+    <box label="workout" source="manual" occluded="0" xtl="126.54" ytl="12.30" xbr="377.68" ybr="360.09" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="img (29).jpg" width="828" height="466">
+    <points label="workout" source="manual" occluded="0" points="499.56,142.89;464.73,212.54;421.71,261.71;416.59,127.52;402.25,205.37;355.13,258.64;560.00,173.62;482.15,238.15;418.64,304.73;337.72,95.77;428.88,52.75;547.70,137.77;542.58,69.14;204.55,212.54;75.49,378.48;348.98,242.25;260.89,444.04" z_order="0">
+    </points>
+    <box label="workout" source="manual" occluded="0" xtl="0.00" ytl="16.90" xbr="580.48" ybr="466.00" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="img (31).jpg" width="612" height="408">
+    <box label="workout" source="manual" occluded="0" xtl="209.72" ytl="56.67" xbr="515.53" ybr="278.49" z_order="0">
+    </box>
+    <points label="workout" source="manual" occluded="0" points="428.38,116.08;478.29,158.86;511.57,228.58;408.58,134.30;452.15,173.12;490.97,250.76;400.65,139.85;445.81,177.08;486.21,252.35;324.60,173.12;248.54,193.72;322.22,177.08;255.67,195.31;364.21,183.42;261.22,242.05;358.66,184.22;263.60,231.75" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="img (4).jpg" width="612" height="408">
+    <points label="workout" source="manual" occluded="0" points="254.09,162.03;315.09,173.92;361.83,167.58;213.69,203.23;292.12,218.28;345.99,239.67;311.13,180.25;338.86,201.64;398.28,206.40;226.36,295.92;198.63,313.35;348.37,311.76;233.49,319.69;393.52,249.97;444.23,261.06;447.39,247.59;493.34,259.48" z_order="0">
+    </points>
+    <box label="workout" source="manual" occluded="0" xtl="137.63" ytl="85.98" xbr="508.40" ybr="340.28" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="img (43).jpg" width="612" height="408">
+    <box label="workout" source="manual" occluded="0" xtl="112.28" ytl="17.85" xbr="403.03" ybr="364.05" z_order="0">
+    </box>
+    <points label="workout" source="manual" occluded="0" points="300.04,124.00;285.78,200.06;277.86,280.87;242.21,124.01;254.09,203.23;245.38,274.53;356.29,139.06;323.01,207.19;326.18,291.96;152.68,162.03;170.11,235.71;285.78,189.76;200.22,218.28;175.66,170.75;171.70,318.89;377.68,322.06;240.62,337.12" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="img (47).jpg" width="612" height="421">
+    <points label="workout" source="manual" occluded="0" points="326.83,356.42;326.83,335.17;326.01,321.27;371.79,353.15;355.44,326.99;353.81,311.46;292.50,347.43;294.95,327.81;291.68,312.28;447.82,359.69;520.57,367.05;211.57,357.24;146.99,365.41;334.19,237.89;326.83,148.78;308.03,236.25;308.03,149.60" z_order="0">
+    </points>
+    <box label="workout" source="manual" occluded="0" xtl="98.75" ytl="104.64" xbr="572.89" ybr="413.65" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="img (51).jpg" width="612" height="408">
+    <points label="workout" source="manual" occluded="0" points="215.27,143.81;266.77,162.82;317.47,175.50;209.72,157.28;262.01,177.88;319.85,185.80;200.22,178.67;259.64,192.14;324.60,203.23;149.52,157.28;84.55,143.81;205.76,238.88;201.01,305.43;340.44,290.37;431.55,268.98;435.51,187.38;536.12,150.15" z_order="0">
+    </points>
+    <box label="workout" source="manual" occluded="0" xtl="38.60" ytl="100.24" xbr="596.33" ybr="316.52" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="img (56).jpg" width="612" height="408">
+    <box label="workout" source="manual" occluded="0" xtl="22.76" ytl="51.91" xbr="579.70" ybr="394.95" z_order="0">
+    </box>
+    <points label="workout" source="manual" occluded="0" points="491.76,326.02;380.06,368.81;266.77,352.96;475.92,284.83;376.89,305.43;308.75,287.21;401.45,314.93;323.01,327.61;231.91,312.56;415.71,210.36;358.66,121.63;304.79,233.33;257.26,134.30;203.39,169.16;149.52,324.44;133.67,169.95;79.80,337.12" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="img (58).jpg" width="612" height="408">
+    <box label="workout" source="manual" occluded="0" xtl="114.66" ytl="55.87" xbr="590.00" ybr="360.09" z_order="0">
+    </box>
+    <points label="workout" source="manual" occluded="0" points="203.39,150.94;206.56,216.70;228.74,268.98;180.41,164.41;184.37,245.22;236.66,299.88;175.66,168.37;171.70,251.55;228.74,315.73;175.66,250.76;180.41,337.91;171.70,255.52;174.87,341.87;394.32,318.89;502.06,332.36;393.52,325.23;515.53,341.87" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="img (6).jpg" width="612" height="395">
+    <points label="workout" source="manual" occluded="0" points="225.08,106.58;278.77,122.69;343.97,151.07;208.21,157.21;279.54,157.21;311.75,187.12;261.90,52.13;307.92,99.68;371.58,111.95;205.14,249.24;193.64,329.78;289.51,15.31;306.39,49.83;366.21,235.44;393.82,279.16;442.91,203.99;534.95,285.29" z_order="0">
+    </points>
+    <box label="workout" source="manual" occluded="0" xtl="132.20" ytl="7.64" xbr="561.79" ybr="380.40" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="img (60).jpg" width="612" height="408">
+    <box label="workout" source="manual" occluded="0" xtl="82.97" ytl="40.82" xbr="474.33" ybr="376.73" z_order="0">
+    </box>
+    <points label="workout" source="manual" occluded="0" points="456.90,277.70;366.59,363.26;181.20,364.05;414.12,272.15;316.68,312.56;200.22,299.88;403.03,282.45;304.79,322.06;187.54,308.60;288.95,287.21;281.82,196.10;267.56,295.13;278.65,202.44;344.40,176.29;173.28,92.32;336.48,179.46;158.23,107.37" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="img (69).jpg" width="612" height="408">
+    <points label="workout" source="manual" occluded="0" points="342.82,122.42;323.01,192.14;320.64,284.83;281.82,133.51;283.40,203.23;241.41,278.49;399.86,143.81;358.66,209.57;339.65,294.34;246.17,177.88;193.09,199.27;413.33,225.41;429.17,296.71;174.87,306.22;66.33,327.61;220.82,207.19;135.26,295.13" z_order="0">
+    </points>
+    <box label="workout" source="manual" occluded="0" xtl="0.00" ytl="30.52" xbr="471.16" ybr="363.26" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="img (71).jpg" width="612" height="408">
+    <points label="workout" source="manual" occluded="0" points="365.00,134.30;380.85,200.06;382.43,252.35;312.72,159.66;345.99,212.74;337.27,249.18;422.84,127.97;412.54,201.64;428.38,265.82;238.25,200.06;151.89,234.13;431.55,223.03;375.30,287.21;229.53,295.13;113.86,314.14;457.69,303.84;352.33,318.89" z_order="0">
+    </points>
+    <box label="workout" source="manual" occluded="0" xtl="61.58" ytl="41.61" xbr="487.80" ybr="347.42" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="img (79).jpg" width="612" height="408">
+    <box label="workout" source="manual" occluded="0" xtl="189.92" ytl="68.55" xbr="380.85" ybr="299.88" z_order="0">
+    </box>
+    <points label="workout" source="manual" occluded="0" points="350.74,127.97;345.99,182.63;321.43,221.45;326.18,135.10;323.81,171.54;304.79,211.15;334.11,138.27;332.52,175.50;315.09,215.90;288.95,135.10;244.58,123.21;286.57,126.38;245.38,116.88;241.41,214.32;221.61,277.70;265.18,156.49;225.57,106.58" z_order="0">
+    </points>
+  </image>
+</annotations>
