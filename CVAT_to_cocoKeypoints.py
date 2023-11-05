@@ -35,13 +35,14 @@ for image in images:
 
         points = e.attributes['points']
         points = points.value.split(';')
+        print("Number of columns: {}".format(len(points)))
         points_ = []
         for p in points:
             p = p.split(',')
             p1, p2 = p
             points_.append([int(float(p1)), int(float(p2))])
         for p_, p in enumerate(points_):
-            label_file.write('{} {}'.format(p[0] / width, p[1] / height))
+            label_file.write('{} {} {}'.format(p[0] / width, p[1] / height, 2))
             if p_ < len(points_) - 1:
                 label_file.write(' ')
             else:
